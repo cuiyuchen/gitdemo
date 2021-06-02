@@ -1,3 +1,9 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/cuiyuchen/lensa.git
+[submodule "aa"]
+	path = aa
+	url = https://github.com/cuiyuchen/one.git
+[submodule "src/vv"]
+	path = src/vv
+	url = https://github.com/cuiyuchen/one.git
